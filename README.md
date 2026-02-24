@@ -1,6 +1,6 @@
 # React + Vite + Kandó
-#IDE IS TUDOK ÍRNI DOLGOKAT MORE
-#NAGYON MENŐŐ!4!4!44!4!!4!
+# IDE IS TUDOK ÍRNI DOLGOKAT MORE
+# NAGYON MENŐŐ!4!4!44!4!!4!
 
 Update: Kandós favicon és specifikus ikonok, BrowserRouter-re és bootstrap-icons-ra felkészítve a main.jsx és a package.json-ben is!
 Korábbi npm-es React telepítőről átalakítva Vite-kompatibilissá.
